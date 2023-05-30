@@ -1,3 +1,3 @@
 <?php
 
-echo "Kartoshka";
+echo "Kartoshka and pomidor";
